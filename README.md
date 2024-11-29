@@ -1,1 +1,1 @@
-# talk-static-web-app
+# Talk: Statis Web Apps to host React app
